@@ -80,8 +80,10 @@
   <a href="https://github.com/priyansusikdar2">
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
+  <a href="https://leetcode.com/u/Priyansu123/">
+    <img src="https://img.shields.io/badge/LeetCode-Coding%20Profile-orange?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
 </p>
-
 ---
 
 <p align="center">
