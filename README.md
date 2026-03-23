@@ -23,16 +23,18 @@
 
 ### 👨‍💻 Programming
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,c,js" />
+  <img src="https://skillicons.dev/icons?i=python,java,c,c++,r" />
 </p>
 
 ### 🤖 AI / ML / Data
 <p>
-  <img src="https://skillicons.dev/icons?i=tensorflow" />
-  <img src="https://img.shields.io/badge/NLP-Natural%20Language%20Processing-blueviolet?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Computer%20Vision-AI-success?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/AI%2FML-Intelligence-blue?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Data%20Science-Analytics-yellow?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Data%20Analytics-Learning-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Data%20Analytics-Insights-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/NLP-Natural%20Language%20Processing-blueviolet?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Computer%20Vision-Image%20AI-success?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Generative%20AI-Creative%20AI-red?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Agentic%20AI-Autonomous%20Systems-purple?style=for-the-badge"/>
 </p>
 
 ### ⚙️ Backend Development
