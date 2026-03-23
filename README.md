@@ -23,7 +23,7 @@
 
 ### 👨‍💻 Programming
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,c,c++,r" />
+  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,r" />
 </p>
 
 ### 🤖 AI / ML / Data
