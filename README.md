@@ -83,8 +83,11 @@
   <a href="https://leetcode.com/u/Priyansu123/">
     <img src="https://img.shields.io/badge/LeetCode-Coding%20Profile-orange?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
+  <a href="https://www.hackerrank.com/profile/priyansusikdar4">
+    <img src="https://img.shields.io/badge/HackerRank-Problem%20Solving-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
+  </a>
 </p>
----
+
 
 <p align="center">
   ⚡ <b>"Exploring intelligence through code, design, and systems"</b>
