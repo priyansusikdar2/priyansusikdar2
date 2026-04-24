@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Priyansu Sikdar</h1>
-<h3 align="center">🚀 AI/ML Explorer | Python Developer | Future Tech Architect</h3>
+<h3 align="center">🚀 AI/ML Explorer | Python Developer | Software Tester | Future Tech Architect</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?lines=AI%2FML+%7C+Data+Science+%7C+NLP+%7C+Computer+Vision;Python+Developer+%7C+Flask+%7C+Django+%7C+FastAPI;Frontend+Development+%7C+UI%2FUX+Design;GenAI+%7C+Agentic+AI+%7C+MLOps;Always+Learning+%7C+Always+Building&center=true&width=650&height=50">
+  <img src="https://readme-typing-svg.demolab.com?lines=AI%2FML+%7C+Data+Science+%7C+NLP+%7C+Computer+Vision;Python+Developer+%7C+Flask+%7C+Django+%7C+FastAPI;Software+Testing+%7C+QA+Automation+%7C+Selenium;Frontend+Development+%7C+UI%2FUX+Design;GenAI+%7C+Agentic+AI+%7C+MLOps;Always+Learning+%7C+Always+Building&center=true&width=650&height=50">
 </p>
 
 ---
@@ -10,12 +10,14 @@
 ## 🧠 About Me
 - 🤖 Exploring **AI/ML, Data Science, NLP, Computer Vision**
 - ⚙️ Python Developer (**Flask, Django, FastAPI**)
-- 📊 Learning **Data Analytics & Data-Driven Systems**
+- 🧪 Software Tester focused on **Manual + Automation Testing**
+- 🔍 Learning **QA methodologies, Test Case Design & Bug Tracking**
+- 📊 Exploring **Data Analytics & Data-Driven Systems**
 - 🌐 Exploring **Frontend Development**
 - 🧠 Diving into **Generative AI & Agentic AI**
 - ☁️ MLOps enthusiast (learning deployment & scaling)
 - 🎨 Designing intuitive interfaces with **Figma**
-- 🚀 Passionate about building **intelligent + scalable systems**
+- 🚀 Passionate about building **intelligent + scalable + reliable systems**
 
 ---
 
@@ -25,6 +27,8 @@
 <p>
   <img src="https://skillicons.dev/icons?i=python,java,c,cpp,r" />
 </p>
+
+---
 
 ### 🤖 AI / ML / Data
 <p>
@@ -37,21 +41,41 @@
   <img src="https://img.shields.io/badge/Agentic%20AI-Autonomous%20Systems-purple?style=for-the-badge"/>
 </p>
 
+---
+
+### 🧪 Software Testing & QA
+<p>
+  <img src="https://img.shields.io/badge/Manual%20Testing-QA-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Automation%20Testing-Selenium-green?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Test%20Cases-Design-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Bug%20Tracking-JIRA-red?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/API%20Testing-Postman-yellow?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Performance%20Testing-JMeter-purple?style=for-the-badge"/>
+</p>
+
+---
+
 ### ⚙️ Backend Development
 <p>
   <img src="https://skillicons.dev/icons?i=flask,django,fastapi" />
 </p>
+
+---
 
 ### 🌐 Frontend Development
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,react" />
 </p>
 
+---
+
 ### ☁️ MLOps & Tools
 <p>
   <img src="https://img.shields.io/badge/MLOps-Learning-blue?style=for-the-badge"/>
-  <img src="https://skillicons.dev/icons?i=git,github" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker" />
 </p>
+
+---
 
 ### 🎨 UI/UX Design
 <p>
@@ -88,7 +112,8 @@
   </a>
 </p>
 
+---
 
 <p align="center">
-  ⚡ <b>"Exploring intelligence through code, design, and systems"</b>
+  ⚡ <b>"Exploring intelligence through code, testing, design, and scalable systems"</b>
 </p>
