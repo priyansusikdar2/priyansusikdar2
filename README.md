@@ -46,11 +46,11 @@
 ### 🧪 Software Testing & QA
 <p>
   <img src="https://img.shields.io/badge/Manual%20Testing-QA-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Automation%20Testing-Selenium-green?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Automation%20Testing-Selenium & Maven-green?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Test%20Cases-Design-orange?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Bug%20Tracking-JIRA-red?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/API%20Testing-Postman-yellow?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Performance%20Testing-JMeter-purple?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Unit%20Testing-JUnit-purple?style=for-the-badge"/>
 </p>
 
 ---
